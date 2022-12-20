@@ -1,2 +1,2 @@
-# Prueba
-Mi primer repositorio, para saber como funciona Github
+# Cajero
+Sistema de caja que entrega devueltas
